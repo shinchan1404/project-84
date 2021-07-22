@@ -5,17 +5,17 @@ ctx = canvas.getContext("2d");
 
 car1_width = 120;
 car1_height = 70;
-car1_image = "car_1.jpg";
+car1_image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-8iTPKFBGzfO9wMLukAyiPI6Crxj4dA2AQ&usqp=CAU";
 car1_x = 10;
 car1_y = 10;
 
 car2_width = 120;
 car2_height = 70;
-car2_image ="car_2.jpg";
+car2_image ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTci4KCqZE9pWOJlfI7rU5ndNtN6KRQjUM61Q&usqp=CAU";
 car2_x = 10;
 car2_y = 100;
 
-background_image = "background.jpg";
+background_image = "https://m.media-amazon.com/images/I/41dy4YRHIML._AC_SX355_.jpg";
 
 function add() {
 	background_imgTag = new Image(); 
